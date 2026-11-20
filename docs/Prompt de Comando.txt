@@ -1,0 +1,65 @@
+Microsoft Windows [versão 10.0.26300.9974]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\lucas>dotnet --version
+11.0.100
+
+C:\Users\lucas>cd "C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4"
+
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4>dotnet new console -n TP1Biblioteca
+
+Bem-vindo(a) ao .NET 11.0.
+---------------------
+Versão do SDK: 11.0.100
+
+Telemetria
+---------
+As ferramentas do .NET coletam dados de uso para ajudar-nos a aprimorar sua experiência. Eles são coletados pela Microsoft e compartilhados com a comunidade. Você pode recusar a telemetria definindo a variável de ambiente DOTNET_CLI_TELEMETRY_OPTOUT como '1' ou 'true' usando seu shell favorito.
+
+Leia mais sobre a telemetria das Ferramentas da CLI do .NET: https://aka.ms/dotnet-cli-telemetry
+
+----------------
+Instalou um certificado de desenvolvimento ASP.NET Core HTTPS.
+Para confiar no certificado, execute 'dotnet dev-certs https --trust'
+Saiba mais HTTPS: https://aka.ms/dotnet-https
+
+----------------
+Escreva seu primeiro aplicativo: https://aka.ms/dotnet-hello-world
+Descubra o que há de novo: https://aka.ms/dotnet-whats-new
+Explorar a documentação: https://aka.ms/dotnet-docs
+Relate problemas e encontre a fonte no GitHub: https://github.com/dotnet/core
+Use 'dotnet --help' para ver os comandos disponíveis ou visite: https://aka.ms/dotnet-cli
+--------------------------------------------------------------------------------------
+O modelo "Aplicativo do Console" foi criado com êxito.
+
+Processando ações pós-criação...
+Restaurando C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\TP1Biblioteca.csproj:
+A restauração foi bem-sucedida.
+
+
+
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4>cd TP1Biblioteca
+
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca>dotnet run
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\Program.cs(17,20): warning CS8600: Conversão de literal nula ou possível valor nulo em tipo não anulável.
+=== GESTÃO DE BIBLIOTECA ===
+
+1. Simular Empréstimo
+2. Simular Reserva
+0. Sair
+Escolha: 1
+Empréstimo liberado! Você agora tem 3 livros.
+
+1. Simular Empréstimo
+2. Simular Reserva
+0. Sair
+Escolha: 2
+Reserva efetuada com sucesso. Todos os exemplares estão ocupados.
+
+1. Simular Empréstimo
+2. Simular Reserva
+0. Sair
+Escolha: 0
+Encerrando...
+
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca>

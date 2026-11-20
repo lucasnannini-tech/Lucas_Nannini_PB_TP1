@@ -1,0 +1,16 @@
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\bin\Debug\net11.0\TP1Biblioteca.exe
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\bin\Debug\net11.0\TP1Biblioteca.deps.json
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\bin\Debug\net11.0\TP1Biblioteca.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\bin\Debug\net11.0\TP1Biblioteca.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\bin\Debug\net11.0\TP1Biblioteca.dll
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\bin\Debug\net11.0\TP1Biblioteca.pdb
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\obj\Debug\net11.0\TP1Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\obj\Debug\net11.0\TP1Biblioteca.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\obj\Debug\net11.0\TP1Biblioteca.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\obj\Debug\net11.0\TP1Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\obj\Debug\net11.0\TP1Biblioteca.dll
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\obj\Debug\net11.0\refint\TP1Biblioteca.dll
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\obj\Debug\net11.0\TP1Biblioteca.pdb
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\obj\Debug\net11.0\TP1Biblioteca.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\obj\Debug\net11.0\ref\TP1Biblioteca.dll
+C:\Users\lucas\OneDrive\Documentos\1-Projeto de programação\Projeto de Bloco\TP1\Questão 4\TP1Biblioteca\obj\Debug\net11.0\TP1Bibli.9F78F912.Up2Date
